@@ -1,7 +1,7 @@
 # Как запустить этот пример?
 1. Если у вас нет Xcode, установить его из App Store. Для этого можно воспользоваться [ссылкой](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
 2. Запустите Xcode. На предложение установить дополнительные компоненты нужно ответить "Install".
-[https://user-images.githubusercontent.com/153802/38372688-57e17984-38e7-11e8-8712-d297989db079.png]
+![Screenshot](https://user-images.githubusercontent.com/153802/38372688-57e17984-38e7-11e8-8712-d297989db079.png)
 3. Откройте приложение Терминал.
 4. Выполните следующую команду для загрузки репозитория: `git clone https://github.com/vibe0508/Collections.git`
 5. Выполните следующую команду, чтобы перед вами открылась папка с примером кода: `open Collections`
